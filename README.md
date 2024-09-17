@@ -12,6 +12,7 @@ The codebase follows the MVVM (Model-View-ViewModel) design pattern, ensuring cl
 ## Future Plans
 - Adding a UI for gamepad control of Rhino commands.
 - Expanding customization options for gamepad interaction.
+- Making the project compatible with platforms other than Windows.
 
 ## Call for Collaboration
-I’m eager for community support to help shape the future of this project! Whether it’s contributing to the UI development or enhancing gamepad controls, your ideas and contributions are welcome.
+I’m eager for community support to help shape the future of this project! Whether it’s contributing to the UI development, enhancing gamepad controls, or extending compatibility to other platforms, your ideas and contributions are welcome.
